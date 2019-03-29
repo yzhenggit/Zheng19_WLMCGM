@@ -1,0 +1,29 @@
+WLM notes.
+
+Target 41:
+z = -0.00050; = -150 km/s definitely there in CIV, SiII, SiIII, SiIV etc.
+
+Target 16:
+CIV, component at z = -0.00059 (blended); SiII and SiIII have one at -0.00066. SiIV at -0.00064, which is -185 km/s or so.
+
+Target 21:
+much lower S/N spectrum.
+Nothing from -140 to -190. There is something at -0.00072 in SiII, but it's marginally inconsistent with 1193, and possibly a blend.
+SiIII marginally shows something around here -0.00068, possibly, but very hard to tell. It is not in CIV. MAYBE CII, but I am looking too hard for it and it is certainly < 2 sigma detection. 
+Very oddly, OI 1355 shows something right at -0.00063, and 1302 is wiped out by emission, but possibly can be used to rule this out as OI.
+If real, it would be very low-ionization (neutral) gas, but not really buying this one. 
+
+Target 39:
+Cannot rule out -0.00058 (little knob blended in SiIII 1206, and possibly there in SiII as well).
+but definitely not conclusive and quite marginal. CII, also maybe there at same vel. -0.00059
+This one would be a tough sell, but possibly works.
+
+Target 60:
+Again, low S/N.
+Nothing remarkable in CIV at vel of interest.
+There is something at -0.00060 in SiII, but VERY low S/N. It is there in SiIII as well. 
+Unfortunately, SiII 1260 shows a blended feature at -0.00069 that is NOT real (rather is some other line at some other z), and inconsistent with other SiII lines.
+But feature at -0.00060 could certainly be defended.
+Might be there in CII as well.
+SiIV shows only one feature at -0.00084 (is this stream?).
+
